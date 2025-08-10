@@ -1,9 +1,10 @@
 # Air-Pollution-DashBoard
 
-Problem Statement
+## Problem Statement
+
 Air pollution poses severe health risks and environmental challenges across India. Monitoring and analyzing Air Quality Index (AQI) data is critical for identifying the most polluted cities and states, understanding pollutant composition, and taking informed policy actions. This project aims to visualize AQI data across various states and cities of India for 27th July, providing a comprehensive view of pollutant levels, state-wise trends, and city-specific hotspots.
 
-Overview of Dashboard
+## Overview of Dashboard
 This interactive Power BI dashboard presents AQI statistics using various visuals, including:
 
 Key Metrics Cards: Displays the maximum, minimum, and average pollution values.
@@ -20,7 +21,7 @@ Detailed Table: Lists each state and city with their respective max and min AQI 
 
 Filters: Allows dynamic selection of states and air pollutants for focused analysis.
 
-Insights from the Dashboard
+## Insights from the Dashboard
 Overall AQI Statistics:
 
 Max Pollution: 500
