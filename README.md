@@ -57,5 +57,5 @@ Pollution Variation:
 Large variations in min and max AQI within a state suggest uneven pollution distribution, indicating localized sources of pollution.
 
 ## DashBoard
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/nishantdalvi05/Air-Pollution-DashBoard/blob/main/AQI%20Dashboard.png)
 
