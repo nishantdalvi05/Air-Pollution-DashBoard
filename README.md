@@ -57,5 +57,5 @@ Pollution Variation:
 Large variations in min and max AQI within a state suggest uneven pollution distribution, indicating localized sources of pollution.
 
 ## DashBoard
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Dashboard- ([https://github.com/username/repo/assets/image.png](https://github.com/nishantdalvi05/Air-Pollution-DashBoard/blob/main/AQI%20Dashboard.png))
 
